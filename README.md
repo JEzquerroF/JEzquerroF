@@ -9,10 +9,13 @@
 
 ## About My
 
-- Student
-- Video Game developer
-- 3D Artist 
+-  Student 🔭
+- Video Game developer  🎮 
+- 3D Artist  🎨
 <br>
+
+## Projects
+
 
 <!--
 **JEzquerroF/JEzquerroF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
