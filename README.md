@@ -3,7 +3,7 @@
 <div align="center">
 <img src="https://esemanal.mx/revista/wp-content/uploads/2024/07/portadagaming-780x470.jpg">
 
-[![Linkedin](https://img.shields.io/badge/just%20the%20message-8A2BE2)](https://www.linkedin.com/in/javier-ezquerro-fuentes-5a494a319/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-8A2BE2)](https://www.linkedin.com/in/javier-ezquerro-fuentes-5a494a319/)
 <!--
 **JEzquerroF/JEzquerroF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
