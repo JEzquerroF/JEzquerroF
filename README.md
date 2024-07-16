@@ -4,12 +4,11 @@
 </div>
 <img src="https://www.gamingco.com.au/wp-content/uploads/2015/11/gamewarrior-0103-1400x788.jpg">
 
-<div> 
-<div style="text-align: left;">
-  <a href="https://www.linkedin.com/in/javier-ezquerro-fuentes-5a494a319/">
-    <img src="https://img.shields.io/badge/Linkedin-blue" alt="LinkedIn">
-  </a>
-</div>
+[![Linkedin](https://img.shields.io/badge/LINKEDIN-blue)](https://www.linkedin.com/in/javier-ezquerro-fuentes-5a494a319/)
+[![ArtStation](https://img.shields.io/badge/LINKEDIN-blue)](https://www.artstation.com/jezquerrof)
+
+
+
 <!--
 **JEzquerroF/JEzquerroF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
