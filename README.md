@@ -19,18 +19,15 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Simple Game 2D</h3>
+<h3 align="center">RayBoy</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/qTYfvgP.png" width="400" alt="Curso básico android"></a>
+<a href="https://rayboyy.itch.io/rayboy" target="_blank"><img src="https://i.imgur.com/O3FzCXo.png" width="400" alt="Platformer 2D"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+<a href="https://rayboyy.itch.io/rayboy">
+<img src="https://img.shields.io/badge/ITCH.IO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>RayBoy is a fast-paced 2D platformer game where you'll have to overcome various obstacles to fulfill your destiny.</p> Get ready for an adventure full of action, excitement, and surprises in this thrilling 2D platformer game! Are you ready to prove that you're the hero the laboratory needs?
 </div>
 
 <!--
