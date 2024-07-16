@@ -1,8 +1,8 @@
 <div align="center">
 <h1 align="center">Hi, I'm JEzquerroF</a> 👋</h1>
   
-<div align="center">
-<img src="https://esemanal.mx/revista/wp-content/uploads/2024/07/portadagaming-780x470.jpg"> <>
+</div>
+<img src="https://esemanal.mx/revista/wp-content/uploads/2024/07/portadagaming-780x470.jpg">
 
 <div> 
 <div style="text-align: left;">
