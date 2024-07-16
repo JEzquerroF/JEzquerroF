@@ -2,10 +2,8 @@
 <h1 align="center">Hi, I'm JEzquerroF</a> 👋</h1>
 <div align="left">
 <img src="https://esemanal.mx/revista/wp-content/uploads/2024/07/portadagaming-780x470.jpg">
-
-</div>
-
-
+  
+<div>
 [![Linkedin](https://img.shields.io/badge/Linkedin-blue)](https://www.linkedin.com/in/javier-ezquerro-fuentes-5a494a319/)
   
 <!--
