@@ -3,6 +3,7 @@
   
 <div align = "center>
 <img src="https://esemanal.mx/revista/wp-content/uploads/2024/07/portadagaming-780x470.jpg">
+  
 <div> 
 <div style="text-align: left;">
   <a href="https://www.linkedin.com/in/javier-ezquerro-fuentes-5a494a319/">
