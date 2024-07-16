@@ -18,7 +18,6 @@
 
 <table>
 <tr>
-<td width="50%">
 <h3 align="center">RayBoy</h3>
 <div align="center">
 <a href="https://rayboyy.itch.io/rayboy" target="_blank"><img src="https://i.imgur.com/O3FzCXo.png" width="400" alt="Platformer 2D"></a>
