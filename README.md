@@ -5,7 +5,7 @@
 <img src="https://www.gamingco.com.au/wp-content/uploads/2015/11/gamewarrior-0103-1400x788.jpg">
 
 [![Linkedin](https://img.shields.io/badge/LINKEDIN-blue)](https://www.linkedin.com/in/javier-ezquerro-fuentes-5a494a319/)
-[![ArtStation](https://img.shields.io/badge/LINKEDIN-blue)](https://www.artstation.com/jezquerrof)
+[![ArtStation](https://img.shields.io/badge/ARTSTATION-blue)](https://www.artstation.com/jezquerrof)
 
 
 
