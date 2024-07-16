@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm JEzquerroF</a> 👋</h1>
   
 </div>
-<img src="https://esemanal.mx/revista/wp-content/uploads/2024/07/portadagaming-780x470.jpg">
+<img src="https://www.gamingco.com.au/wp-content/uploads/2015/11/gamewarrior-0103-1400x788.jpg">
 
 <div> 
 <div style="text-align: left;">
