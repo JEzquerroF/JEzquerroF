@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I'm JEzquerroF</a> 👋</h1>
 </div>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fesemanal.mx%2F2024%2F07%2Fjugando-en-serio-el-ascenso-del-mercado-de-gaming-en-mexico%2F&psig=AOvVaw3xhTz6U6rJJx5gl9xrbFZE&ust=1721204289100000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjVuOuPq4cDFQAAAAAdAAAAABAE">
+<img src="https://esemanal.mx/revista/wp-content/uploads/2024/07/portadagaming-780x470.jpg">
 
 <!--
 **JEzquerroF/JEzquerroF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
