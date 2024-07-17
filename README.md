@@ -33,7 +33,7 @@
         </p>
         <p>
           RayBoy is a fast-paced 2D platformer game where you'll have to overcome various obstacles to fulfill your destiny. 
-          Get ready for an adventure full of action, excitement, and surprises in this thrilling 2D platformer game! Are you ready to prove that you're the hero the laboratory needs?
+          Get ready for an adventure full of action, excitement, and surprises in this thrilling 2D platformer game!
         </p>
       </div>
     </td>
