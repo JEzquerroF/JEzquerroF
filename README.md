@@ -41,6 +41,25 @@
       </div>
     </td>
   </tr>
+  <tr>
+    <td width = "50%">
+      <h3 align = "center">Auxilia</h3>
+      <div align = "center">
+        <a href = https://github.com/JEzquerroF/Auxilia target = "_blank">
+          <img src = https://i.imgur.com/zGbRq9l.png>
+        </a>
+        <p>
+          <a href =  "https://github.com/JEzquerroF/Auxilia" target = "_blank">
+            <img src = "https://img.shields.io/badge/GITHUB-white?style=for-the-badge&Color=black">
+          </a>
+          <a href = "https://www.youtube.com/watch?v=HuN3VcajHgo&t=3s" target = "_blank">
+            <img = "https://img.shields.io/badge/YOUTUBE-red?style=for-the-badge&Color=black">
+          </a>
+        </p>
+      </div>
+    </td>
+  </tr>
+        
 </table>
 
 
