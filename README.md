@@ -72,6 +72,9 @@
             <img src="https://img.shields.io/badge/YOUTUBE-red?style=for-the-badge&Color=black">
           </a>
         </p>
+        <p>
+          Escape Dungeon is a simple game with AI Enemies, you will have to avoid all the enemies and arrive to the end of the rooom.
+        </p>
       </div>
   </tr>
 </table>
