@@ -57,6 +57,10 @@
       </div>
     </td>
   </tr>
+  <tr>
+    <td width = "50%">
+      <h3 align = "center">Escape Dungeon</h3>
+  </tr>
 </table>
 
 
