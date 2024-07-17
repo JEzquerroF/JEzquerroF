@@ -23,7 +23,7 @@
 <td width="50%">
 <h3 align="center">RayBoy</h3>
 <div align="center">
-<a href="https://rayboyy.itch.io/rayboy" target="_blank"><img src="https://i.imgur.com/O3FzCXo.png" width="400" alt="Platformer 2D"></a>
+<a href="https://rayboyy.itch.io/rayboy" target="_top"><img src="https://i.imgur.com/O3FzCXo.png" width="400" alt="Platformer 2D"></a>
 <p>
 <a href="https://rayboyy.itch.io/rayboy">
 <img src="https://img.shields.io/badge/ITCH.IO-white?style=for-the-badge&logo=github&logoColor=black">
@@ -35,22 +35,7 @@
 <p>RayBoy is a fast-paced 2D platformer game where you'll have to overcome various obstacles to fulfill your destiny.</p> Get ready for an adventure full of action, excitement, and surprises in this thrilling 2D platformer game! Are you ready to prove that you're the hero the laboratory needs?
 </div>
 
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">RayBoy</h3>
-<div align="center">
-<a href="https://rayboyy.itch.io/rayboy" target="_blank"><img src="https://i.imgur.com/O3FzCXo.png" width="400" alt="Platformer 2D"></a>
-<p>
-<a href="https://rayboyy.itch.io/rayboy">
-<img src="https://img.shields.io/badge/ITCH.IO-white?style=for-the-badge&logo=github&logoColor=black">
-  
-<a href="https://www.youtube.com/@RayBoyGame">
-<img src="https://img.shields.io/badge/YOUTUBE-red?style=for-the-badge&Color=black">
-</a>
-</p>
-<p>RayBoy is a fast-paced 2D platformer game where you'll have to overcome various obstacles to fulfill your destiny.</p> Get ready for an adventure full of action, excitement, and surprises in this thrilling 2D platformer game! Are you ready to prove that you're the hero the laboratory needs?
-</div>
+
 
 <!--
 **JEzquerroF/JEzquerroF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
