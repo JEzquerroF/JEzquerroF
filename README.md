@@ -23,7 +23,7 @@
     <td width="50%">
       <h3 align="center">RayBoy</h3>
       <div align="center">
-        <a href="https://rayboyy.itch.io/rayboy" target="_self" title = "RayBoy Youtube Channel" >
+        <a href="https://rayboyy.itch.io/rayboy" target="_self">
           <img src="https://i.imgur.com/O3FzCXo.png" width="400" alt="Platformer 2D">
         </a>
         <p>
@@ -35,7 +35,8 @@
           </a>
         </p>
         <p>
-          RayBoy is a fast-paced 2D platformer game where you'll have to overcome various obstacles to fulfill your destiny. Get ready for an adventure full of action, excitement, and surprises in this thrilling 2D platformer game! Are you ready to prove that you're the hero the laboratory needs?
+          RayBoy is a fast-paced 2D platformer game where you'll have to overcome various obstacles to fulfill your destiny. 
+          Get ready for an adventure full of action, excitement, and surprises in this thrilling 2D platformer game! Are you ready to prove that you're the hero the laboratory needs?
         </p>
       </div>
     </td>
