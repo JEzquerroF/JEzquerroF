@@ -47,7 +47,7 @@
       <h3 align = "center">Auxilia</h3>
       <div align = "center">
         <a href = "https://github.com/JEzquerroF/Auxilia" target = "_blank">
-          <img src = "https://i.imgur.com/zGbRq9l.png">
+          <img src = "https://i.imgur.com/zGbRq9l.png" widht = "400">
         </a>
         <p>
           <a href = "https://github.com/JEzquerroF/Auxilia" target = "_blank">
