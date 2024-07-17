@@ -52,6 +52,9 @@
             <img src="https://img.shields.io/badge/YOUTUBE-red?style=for-the-badge&Color=black">
           </a>
         </p>
+        <p>
+          Auxilia is a Simple 2D action game, you will fight in differents dungeon beating enemies with a lot of weapons.  You will solve some puzzles to continue on the game. 
+        </p>
       </div>
     </td>
   </tr>
