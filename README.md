@@ -21,7 +21,7 @@
       <h3 align="center">RayBoy</h3>
       <div align="center">
         <a href="https://rayboyy.itch.io/rayboy" target="_blank">
-          <img src="https://i.imgur.com/O3FzCXo.png" width="400" alt="Platformer 2D">
+          <img src="https://i.imgur.com/O3FzCXo.png" width="400" alt="RayBoy">
         </a>
         <p>
           <a href="https://rayboyy.itch.io/rayboy">
@@ -60,6 +60,19 @@
   <tr>
     <td width = "50%">
       <h3 align = "center">Escape Dungeon</h3>
+      <div align = "center">
+        <a href = "https://github.com/JEzquerroF/Escape-Dungeon" target = _blank>
+          <img src = "https://i.imgur.com/r1ES9tt.png" width = "400" alt = "Escape Dungeon">
+        </a>
+        <p>
+            <a href= "https://github.com/JEzquerroF/Escape-Dungeon" target="_blank">
+            <img src= "https://img.shields.io/badge/GITHUB-white?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+          <a href="https://www.youtube.com/watch?v=L7sftl2pAWs" target="_blank">
+            <img src="https://img.shields.io/badge/YOUTUBE-red?style=for-the-badge&Color=black">
+          </a>
+        </p>
+      </div>
   </tr>
 </table>
 
