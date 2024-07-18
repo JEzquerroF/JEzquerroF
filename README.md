@@ -80,15 +80,17 @@
     <td width = "50%">
       <h3 align = "center">Roman Era Dust</h3>
       <div align = "center">
-      <a href = "https://www.youtube.com/watch?v=CWls8vjX2Ug" target = "_blank">
-        <img src = "https://i.imgur.com/cIEf1uO.png" width = "400" alt= "Roman Era Dust">
-      </a>
-      <p>
+        <a href = "https://www.youtube.com/watch?v=CWls8vjX2Ug" target = "_blank">
+          <img src = "https://i.imgur.com/cIEf1uO.png" width = "400" alt= "Roman Era Dust">
+        </a>
+        <p>
           <a href="https://www.youtube.com/watch?v=CWls8vjX2Ug" target="_blank">
             <img src="https://img.shields.io/badge/YOUTUBE-red?style=for-the-badge&Color=black">
           </a>
-      </p>
-        
+        </p>
+        <p>
+          This is a 3D project, a remake of Dust from Counter Strike, set in the Roman Era. On YouTube, you can find cinematics of the entire map, and on Download, you can download the build and walk around the map.
+        </p>
       </div>
     </td>
   </tr>
