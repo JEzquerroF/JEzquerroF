@@ -108,7 +108,7 @@
             <a href= "https://github.com/JEzquerroF/BubbleGame" target="_blank">
             <img src= "https://img.shields.io/badge/GitHub-white?style=for-the-badge&logoColor=black">
           </a>
-           <a href = "https://github.com/JEzquerroF/JEzquerroF/releases/download/Game/BubbleGame.love" target = "_blank">
+           <a href = "https://github.com/JEzquerroF/BubbleGame/releases/download/Game/BubbleGame.love" target = "_blank">
            <img src = "https://img.shields.io/badge/DOWNLOAD-white?style=for-the-badge&logoColor=black">
            </a>
         </p>
