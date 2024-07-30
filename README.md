@@ -121,10 +121,10 @@
       <h3 align = "center">BallGame</h3>
       <div align = "center"> 
         <a href = "https://www.youtube.com/watch?v=jMTjlZdwGxM" target = "_blank">
-        <img src = "https://i.imgur.com/01EK2tv.png" alt = "BallGame">
+        <img src = "https://i.imgur.com/01EK2tv.png" width = "400" alt = "BallGame">
         </a>
         <p>
-             <a href= "https://github.com/JEzquerroF/BubbleGame" target="_blank">
+             <a href= "https://github.com/JEzquerroF/JEzquerroF/releases/download/Game/BallGame.zip" target="_blank">
             <img src= "https://img.shields.io/badge/DOWNLOAD-white?style=for-the-badge&logoColor=black">
           </a>
            <a href = "https://www.youtube.com/watch?v=jMTjlZdwGxM" target = "_blank">
