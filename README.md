@@ -117,6 +117,22 @@
           </p>
         </div>
     </td>
+    <td>
+      <h3 align = "center">BallGame</h3>
+      <div align = "center"> 
+        <a href = "https://www.youtube.com/watch?v=jMTjlZdwGxM" target = "_blank">
+        <img src = "https://i.imgur.com/01EK2tv.png" alt = "BallGame">
+        </a>
+        <p>
+             <a href= "https://github.com/JEzquerroF/BubbleGame" target="_blank">
+            <img src= "https://img.shields.io/badge/DOWNLOAD-white?style=for-the-badge&logoColor=black">
+          </a>
+           <a href = "https://www.youtube.com/watch?v=jMTjlZdwGxM" target = "_blank">
+           <img src = "https://img.shields.io/badge/YOUTUBE-white?style=for-the-badge&logoColor=black">
+           </a>
+        </p>
+      </div>
+    </td>
   </tr>
 </table>
 
