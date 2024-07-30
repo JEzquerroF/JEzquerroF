@@ -108,7 +108,7 @@
             <a href= "https://github.com/JEzquerroF/BubbleGame" target="_blank">
             <img src= "https://img.shields.io/badge/GitHub-white?style=for-the-badge&logoColor=black">
           </a>
-          <a href="https://www.youtube.com/watch?v=CWls8vjX2Ug" target="_blank">
+          <a href="" target="_blank">
             <img src="https://img.shields.io/badge/YOUTUBE-red?style=for-the-badge&Color=black">
           </a>
         </p>
