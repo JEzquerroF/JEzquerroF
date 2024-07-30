@@ -111,9 +111,12 @@
           <a href="" target="_blank">
             <img src="https://img.shields.io/badge/YOUTUBE-red?style=for-the-badge&Color=black">
           </a>
+           <a href = "https://github.com/JEzquerroF/JEzquerroF/releases/download/Game/BubbleGame.love" target = "_blank">
+           <img src = "https://img.shields.io/badge/DOWNLOAD-white?style=for-the-badge&logoColor=black">
+           </a>
         </p>
           <p>
-            BubbleGame is an exciting game developed in Lua and executed with Love2D. Players must shoot bubbles, aiming to match and chain three of the same color to make them fall. Use the (A-D) to aim and press the spacebar to shoot.
+            BubbleGame is a game developed in Lua and executed with Love2D. Players must shoot bubbles, aiming to match and chain three of the same color to make them fall. Use the (A-D) to aim and press the spacebar to shoot.
           </p>
         </div>
     </td>
