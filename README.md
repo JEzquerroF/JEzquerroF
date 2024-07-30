@@ -118,7 +118,7 @@
         </div>
     </td>
     <td>
-      <h3 align = "center">BallGame</h3>
+      <h3 align = "center">Ball Game</h3>
       <div align = "center"> 
         <a href = "https://www.youtube.com/watch?v=jMTjlZdwGxM" target = "_blank">
         <img src = "https://i.imgur.com/01EK2tv.png" width = "400" alt = "BallGame">
