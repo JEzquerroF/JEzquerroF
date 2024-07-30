@@ -101,9 +101,20 @@
     <td width = "50%">
       <h3 align = "center">Bubble Game</h3>
         <div align = "center">
-        <a></a>
-        
-          
+        <a href = "https://github.com/JEzquerroF/BubbleGame" target = "_blank">
+        <img src = "https://imgur.com/gallery/bubble-game-Dw1t6a1" width = "400" alt = "BubbleGame">
+        </a>
+         <p>
+            <a href= "https://github.com/JEzquerroF/BubbleGame" target="_blank">
+            <img src= "https://img.shields.io/badge/GitHub-white?style=for-the-badge&logoColor=black">
+          </a>
+          <a href="https://www.youtube.com/watch?v=CWls8vjX2Ug" target="_blank">
+            <img src="https://img.shields.io/badge/YOUTUBE-red?style=for-the-badge&Color=black">
+          </a>
+        </p>
+          <p>
+            BubbleGame is an exciting game developed in Lua and executed with Love2D. Players must shoot bubbles, aiming to match and chain three of the same color to make them fall. Use the (A-D) to aim and press the spacebar to shoot.
+          </p>
         </div>
     </td>
   </tr>
