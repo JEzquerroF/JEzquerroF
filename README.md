@@ -132,7 +132,7 @@
            </a>
         </p>
         <p>
-            BallGame is a game developed in lua and executed with Love2D. Bounce with the floor to increase your jump, collect all the coins and arrived to the highest.        
+            BallGame is a game developed in Lua and executed with Love2D. Bounce off the floor to increase your jump, collect all the coins, and reach the highest point.   
         </p>
       </div>
     </td>
