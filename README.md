@@ -4,7 +4,7 @@
 </div>
 
 [![Linkedin](https://img.shields.io/badge/LINKEDIN-blue)](https://www.linkedin.com/in/javier-ezquerro-fuentes-5a494a319/)
-[![ArtStation](https://img.shields.io/badge/YOUTUBE-red)](https://www.youtube.com/@JEzquerroF)
+[![Youtube](https://img.shields.io/badge/YOUTUBE-red)](https://www.youtube.com/@JEzquerroF)
 
 ## About Me
 
