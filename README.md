@@ -56,6 +56,8 @@
         </p>
       </div>
     </td>
+  </tr>
+    <tr>
     <td width="50%">
       <h3 align="center">Auxilia</h3>
       <div align="center">
@@ -75,8 +77,6 @@
         </p>
       </div>
     </td>
-  </tr>
-  <tr>
     <td width = "50%">
       <h3 align = "center">Escape Dungeon</h3>
       <div align = "center">
@@ -96,6 +96,8 @@
         </p>
       </div>
     </td>
+  </tr>
+  <tr>
     <td width = "50%">
       <h3 align = "center">Roman Era Dust</h3>
       <div align = "center">
@@ -115,8 +117,6 @@
         </p>
       </div>
     </td>
-  </tr>
-  <tr>
     <td width = "50%">
       <h3 align = "center">Bubble Game</h3>
         <div align = "center">
@@ -136,6 +136,7 @@
           </p>
         </div>
     </td>
+  </tr>
     <td>
       <h3 align = "center">Ball Game</h3>
       <div align = "center"> 
