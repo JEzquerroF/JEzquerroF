@@ -52,7 +52,7 @@
           </a>
         </p>
         <p>
-          Invade the Base
+            Invade the Base is an action-packed FPS where players explore a custom-built island terrain, test their aim in a shooting gallery, and face off against enemies as they advance through a fortified base.
         </p>
       </div>
     </td>
