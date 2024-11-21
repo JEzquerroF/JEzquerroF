@@ -21,7 +21,7 @@
       <h3 align="center">Portal Game</h3>
       <div align="center">
         <a href="https://github.com/JEzquerroF/Portal---Game" target="_blank">
-          <img src="https://i.imgur.com/aIfmCqm.png" width="400" alt="Invade the Base">
+          <img src="https://i.imgur.com/g4VXwpg.png" width="400" alt="Invade the Base">
         </a>
         <p>
           <a href="https://github.com/JEzquerroF/Portal---Game">
