@@ -18,21 +18,21 @@
 <table>
   <tr>
      <td width="50%">
-      <h3 align="center">Invade the Base</h3>
+      <h3 align="center">Portal Game</h3>
       <div align="center">
-        <a href="https://github.com/JEzquerroF/Invade-the-Base" target="_blank">
+        <a href="https://github.com/JEzquerroF/Portal---Game" target="_blank">
           <img src="https://i.imgur.com/aIfmCqm.png" width="400" alt="Invade the Base">
         </a>
         <p>
-          <a href="https://github.com/JEzquerroF/Invade-the-Base">
+          <a href="https://github.com/JEzquerroF/Portal---Game">
             <img src="https://img.shields.io/badge/GITHUB-white?style=for-the-badge&logo=github&logoColor=black">
           </a>
-          <a href="https://www.youtube.com/watch?v=yiKrWVe8L4Y&t=4s">
+          <a href="https://www.youtube.com/watch?v=iinQuBZm1s4">
             <img src="https://img.shields.io/badge/YOUTUBE-red?style=for-the-badge&Color=black">
           </a>
         </p>
         <p>
-            Invade the Base is an action-packed FPS where players explore a custom-built island terrain, test their aim in a shooting gallery, and face off against enemies as they advance through a fortified base.
+            Portal Game is a recreation of the original Portal game. In this project we control a character that can shoot portals and attract or repel objects to solve puzzles.
         </p>
       </div>
     </td>
