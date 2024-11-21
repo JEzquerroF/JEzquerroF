@@ -17,6 +17,25 @@
 
 <table>
   <tr>
+     <td width="50%">
+      <h3 align="center">Invade the Base</h3>
+      <div align="center">
+        <a href="https://github.com/JEzquerroF/Invade-the-Base" target="_blank">
+          <img src="https://i.imgur.com/aIfmCqm.png" width="400" alt="Invade the Base">
+        </a>
+        <p>
+          <a href="https://github.com/JEzquerroF/Invade-the-Base">
+            <img src="https://img.shields.io/badge/GITHUB-white?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+          <a href="https://www.youtube.com/watch?v=yiKrWVe8L4Y&t=4s">
+            <img src="https://img.shields.io/badge/YOUTUBE-red?style=for-the-badge&Color=black">
+          </a>
+        </p>
+        <p>
+            Invade the Base is an action-packed FPS where players explore a custom-built island terrain, test their aim in a shooting gallery, and face off against enemies as they advance through a fortified base.
+        </p>
+      </div>
+    </td>
     <td width="50%">
       <h3 align="center">RayBoy</h3>
       <div align="center">
@@ -37,6 +56,8 @@
         </p>
       </div>
     </td>
+    </tr>
+  <tr>
        <td width="50%">
       <h3 align="center">Invade the Base</h3>
       <div align="center">
@@ -56,8 +77,6 @@
         </p>
       </div>
     </td>
-  </tr>
-    <tr>
     <td width="50%">
       <h3 align="center">Auxilia</h3>
       <div align="center">
@@ -77,6 +96,8 @@
         </p>
       </div>
     </td>
+  </tr>
+  <tr>
     <td width = "50%">
       <h3 align = "center">Escape Dungeon</h3>
       <div align = "center">
@@ -96,8 +117,6 @@
         </p>
       </div>
     </td>
-  </tr>
-  <tr>
     <td width = "50%">
       <h3 align = "center">Roman Era Dust</h3>
       <div align = "center">
@@ -117,6 +136,8 @@
         </p>
       </div>
     </td>
+  </tr>
+  <tr>
     <td width = "50%">
       <h3 align = "center">Bubble Game</h3>
         <div align = "center">
@@ -136,7 +157,6 @@
           </p>
         </div>
     </td>
-  </tr>
     <td>
       <h3 align = "center">Ball Game</h3>
       <div align = "center"> 
