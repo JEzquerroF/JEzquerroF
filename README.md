@@ -68,7 +68,7 @@
           <a href="https://github.com/JEzquerroF/Mario64--3D">
             <img src="https://img.shields.io/badge/GITHUB-white?style=for-the-badge&logo=github&logoColor=black">
           </a>
-          <a href="https://www.youtube.com/watch?v=G6A8jcF2kbA">
+          <a href="https://www.youtube.com/watch?v=faLjWFY0Pro">
             <img src="https://img.shields.io/badge/YOUTUBE-red?style=for-the-badge&Color=black">
           </a>
         </p>
