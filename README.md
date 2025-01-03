@@ -59,6 +59,25 @@
     </tr>
   <tr>
        <td width="50%">
+      <h3 align="center">Mario 64</h3>
+      <div align="center">
+        <a href="https://github.com/JEzquerroF/Mario64--3D" target="_blank">
+          <img src="https://i.imgur.com/xKoDSoY.png" width="400" alt="Mario 64">
+        </a>
+        <p>
+          <a href="https://github.com/JEzquerroF/Mario64--3D">
+            <img src="https://img.shields.io/badge/GITHUB-white?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+          <a href="https://www.youtube.com/watch?v=G6A8jcF2kbA">
+            <img src="https://img.shields.io/badge/YOUTUBE-red?style=for-the-badge&Color=black">
+          </a>
+        </p>
+        <p>
+            In this project, we recreated the experience of the classic Mario 64, developing a 3D character with smooth movement and a third-person camera that dynamically follows the player. 
+        </p>
+      </div>
+    </td>
+       <td width="50%">
       <h3 align="center">Invade the Base</h3>
       <div align="center">
         <a href="https://github.com/JEzquerroF/Invade-the-Base" target="_blank">
@@ -77,6 +96,8 @@
         </p>
       </div>
     </td>
+  </tr>
+    <tr>
     <td width="50%">
       <h3 align="center">Auxilia</h3>
       <div align="center">
@@ -96,8 +117,6 @@
         </p>
       </div>
     </td>
-  </tr>
-  <tr>
     <td width = "50%">
       <h3 align = "center">Escape Dungeon</h3>
       <div align = "center">
@@ -117,6 +136,8 @@
         </p>
       </div>
     </td>
+  </tr>
+  <tr>
     <td width = "50%">
       <h3 align = "center">Roman Era Dust</h3>
       <div align = "center">
@@ -136,8 +157,6 @@
         </p>
       </div>
     </td>
-  </tr>
-  <tr>
     <td width = "50%">
       <h3 align = "center">Bubble Game</h3>
         <div align = "center">
@@ -157,6 +176,8 @@
           </p>
         </div>
     </td>
+  </tr>
+  <tr>
     <td>
       <h3 align = "center">Ball Game</h3>
       <div align = "center"> 
