@@ -116,7 +116,6 @@
       <h3 align = "center">Roman Era Dust</h3>
       <div align = "center">
         <a href = "https://www.youtube.com/watch?v=CWls8vjX2Ug" target = "_blank">
-          <img src = "https://i.imgur.com/cIEf1uO.png" width = "400" alt= "Roman Era Dust">
         </a>
         <p>
             <a href= "https://github.com/JEzquerroF/JEzquerroF/releases/download/Build/Roman-Era-Dust.7z" target="_blank">
