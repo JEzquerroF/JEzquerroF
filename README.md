@@ -21,7 +21,6 @@
       <h3 align="center">Portal Game</h3>
       <div align="center">
         <a href="https://github.com/JEzquerroF/Portal---Game" target="_blank">
-          <img src="https://i.imgur.com/g4VXwpg.png" width="400" alt="Invade the Base">
         </a>
         <p>
           <a href="https://github.com/JEzquerroF/Portal---Game">
@@ -40,7 +39,6 @@
       <h3 align="center">RayBoy</h3>
       <div align="center">
         <a href="https://rayboyy.itch.io/rayboy" target="_blank">
-          <img src="https://i.imgur.com/O3FzCXo.png" width="400" alt="RayBoy">
         </a>
         <p>
           <a href="https://rayboyy.itch.io/rayboy">
@@ -62,7 +60,6 @@
       <h3 align="center">Mario 64</h3>
       <div align="center">
         <a href="https://github.com/JEzquerroF/Mario64--3D" target="_blank">
-          <img src="https://i.imgur.com/xKoDSoY.png" width="400" alt="Mario 64">
         </a>
         <p>
           <a href="https://github.com/JEzquerroF/Mario64--3D">
@@ -81,7 +78,6 @@
       <h3 align="center">Invade the Base</h3>
       <div align="center">
         <a href="https://github.com/JEzquerroF/Invade-the-Base" target="_blank">
-          <img src="https://i.imgur.com/aIfmCqm.png" width="400" alt="Invade the Base">
         </a>
         <p>
           <a href="https://github.com/JEzquerroF/Invade-the-Base">
@@ -102,7 +98,6 @@
       <h3 align="center">Auxilia</h3>
       <div align="center">
         <a href="https://github.com/JEzquerroF/Auxilia" target="_blank">
-          <img src="https://i.imgur.com/zGbRq9l.png" width="400" height = "250" alt="Auxilia">
         </a>
         <p>
           <a href="https://github.com/JEzquerroF/Auxilia" target="_blank">
@@ -117,27 +112,6 @@
         </p>
       </div>
     </td>
-    <td width = "50%">
-      <h3 align = "center">Escape Dungeon</h3>
-      <div align = "center">
-        <a href = "https://github.com/JEzquerroF/Escape-Dungeon" target = _blank>
-          <img src = "https://i.imgur.com/r1ES9tt.png" width = "400" alt = "Escape Dungeon">
-        </a>
-        <p>
-            <a href= "https://github.com/JEzquerroF/Escape-Dungeon" target="_blank">
-            <img src= "https://img.shields.io/badge/GITHUB-white?style=for-the-badge&logo=github&logoColor=black">
-          </a>
-          <a href="https://www.youtube.com/watch?v=L7sftl2pAWs" target="_blank">
-            <img src="https://img.shields.io/badge/YOUTUBE-red?style=for-the-badge&Color=black">
-          </a>
-        </p>
-        <p>
-          Escape Dungeon is a simple game with AI Enemies, you will have to avoid all the enemies and arrive to the end of the rooom.
-        </p>
-      </div>
-    </td>
-  </tr>
-  <tr>
     <td width = "50%">
       <h3 align = "center">Roman Era Dust</h3>
       <div align = "center">
@@ -157,47 +131,7 @@
         </p>
       </div>
     </td>
-    <td width = "50%">
-      <h3 align = "center">Bubble Game</h3>
-        <div align = "center">
-          <a href = "https://github.com/JEzquerroF/BubbleGame" target = "_blank">
-          <img src = "https://i.imgur.com/H7jLQns.png" width = "400" alt = "BubbleGame">
-          </a>
-         <p>
-            <a href= "https://github.com/JEzquerroF/BubbleGame" target="_blank">
-            <img src= "https://img.shields.io/badge/GitHub-white?style=for-the-badge&logoColor=black">
-          </a>
-           <a href = "https://github.com/JEzquerroF/BubbleGame/releases/download/Game/BubbleGame.love" target = "_blank">
-           <img src = "https://img.shields.io/badge/DOWNLOAD-white?style=for-the-badge&logoColor=black">
-           </a>
-        </p>
-          <p>
-            BubbleGame is a game developed in Lua and executed with Love2D. Players must shoot bubbles, aiming to match and chain three of the same color to make them fall. Use the (A-D) to aim and press the spacebar to shoot.
-          </p>
-        </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3 align = "center">Ball Game</h3>
-      <div align = "center"> 
-        <a href = "https://www.youtube.com/watch?v=jMTjlZdwGxM" target = "_blank">
-        <img src = "https://i.imgur.com/01EK2tv.png" width = "400" alt = "BallGame">
-        </a>
-        <p>
-             <a href= "https://github.com/JEzquerroF/JEzquerroF/releases/download/Game/BallGame.zip" target="_blank">
-            <img src= "https://img.shields.io/badge/DOWNLOAD-white?style=for-the-badge&logoColor=black">
-          </a>
-           <a href = "https://www.youtube.com/watch?v=jMTjlZdwGxM" target = "_blank">
-           <img src = "https://img.shields.io/badge/YOUTUBE-red?style=for-the-badge&logoColor=black">
-           </a>
-        </p>
-        <p>
-            BallGame is a game developed in Lua and executed with Love2D. Bounce off the floor to increase your jump, collect all the coins, and reach the highest point.   
-        </p>
-      </div>
-    </td>
-  </tr>
+    </tr>
 </table>
 
 
